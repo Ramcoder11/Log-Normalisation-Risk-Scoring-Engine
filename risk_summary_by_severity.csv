@@ -1,3 +1,0 @@
-severity,severity_score_mean,severity_score_max,likelihood_mean,likelihood_max,threat_likelihood_mean,threat_likelihood_max,risk_score_mean,risk_score_max,normalized_risk_mean,normalized_risk_max,unified_risk_mean,unified_risk_max,event_count_count
-1,,,,,3.0,5.0,,,0.5,1.0,0.5,1.0,2000
-combo,1.0,1.0,0.0,0.0,,,0.0,0.0,,,0.0,0.0,2000
